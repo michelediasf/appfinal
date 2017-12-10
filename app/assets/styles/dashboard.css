@@ -1,0 +1,110 @@
+body{
+background:	#008080;
+margin-left: 25px;
+}
+
+p{
+color:blue;
+font-weight: bold;
+margin-left: 30px;
+}
+
+h1{
+background:	rgb(255, 0, 0);
+border-style: none;
+font-family: "Arial", "Helvetica", sans-serif;
+text-align: center;
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-left: 0px;
+margin-top: 20px;
+margin-right: 50px;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+
+h3{
+font-family: "Arial", "Helvetica", sans-serif;
+text-align: center;
+font-weight: bold;
+color: orangered;
+}
+
+
+a:link {color: white; background-color: transparent; text-decoration: none}
+a:visited {color: red; background-color: transparent; text-decoration: none}
+      
+.menu{
+font-size: 60px;
+position:relative; 
+margin-top:150px;
+}
+
+.menu li{
+font-size: 20px;
+position:relative; 
+float:left;
+margin-left:130px;
+list-style-type: none;
+font-weight:bold;
+}
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+
+.menu li a:hover{
+background:#333; 
+color:#fff; 
+text-shadow:0px 0px 5px #fff; 
+}
+
+.menu1{
+    border-radius: 20px;
+font-size: 20px;
+position:relative; 
+margin-top:-50px;
+font-weight: bold;
+line-height: 35px;
+background-color: black;
+}
+
+.menu1 ul{
+font-size: 10px;
+position:relative; 
+float: left;
+list-style-type: none;	
+display:block;
+}
+
+section{
+position:relative; 
+float: center;
+top:100px;
+}
+        
+form{
+color: black;
+font-weight: bold;
+background-color: #dddddd;
+border-radius: 20px;
+position: relative;
+top:50px;
+}
+
+.form-2{
+color: black;
+font-weight: bold;
+background-color: #dddddd;
+border-radius: 20px;
+position: relative;
+top:70px;
+}
+
+
+input[type="text"]{
+color:red;
+}
+
+input[value="ENVIAR"]{
+background-color:red;
+}

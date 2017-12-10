@@ -1,0 +1,14 @@
+body{
+
+background-image: url("../images/computador.jpg"); 
+background-repeat: repeat-x;
+}
+
+section{
+    
+background-image: url("../images/jornal.jpg"); 
+background-repeat: no-repeat;
+width: 300px;
+height: 200px;
+}
+
